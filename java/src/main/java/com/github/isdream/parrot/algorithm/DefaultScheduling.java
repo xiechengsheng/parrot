@@ -1,9 +1,10 @@
-package org.lioncruise.clustermocker.algorithm;
+package com.github.isdream.parrot.algorithm;
 
 import java.util.*;
-import org.lioncruise.clustermocker.entities.Cluster;
-import org.lioncruise.clustermocker.entities.Machine;
-import org.lioncruise.clustermocker.entities.Pod;
+
+import com.github.isdream.parrot.entities.Cluster;
+import com.github.isdream.parrot.entities.Machine;
+import com.github.isdream.parrot.entities.Pod;
 
 /**
  * @Author Shijun Qin qinshijun2016@otcaix.iscas.ac.cn

@@ -1,11 +1,11 @@
-package org.lioncruise.clustermocker;
-
-import org.lioncruise.clustermocker.algorithm.DefaultScheduling;
-import org.lioncruise.clustermocker.entities.Cluster;
-import org.lioncruise.clustermocker.entities.Pod;
-import org.lioncruise.clustermocker.utils.CSVOperation;
+package com.github.isdream.parrot;
 
 import java.util.List;
+
+import com.github.isdream.parrot.algorithm.DefaultScheduling;
+import com.github.isdream.parrot.entities.Cluster;
+import com.github.isdream.parrot.entities.Pod;
+import com.github.isdream.parrot.utils.CSVOperation;
 
 /**
  * @Author Shijun Qin qinshijun2016@otcaix.iscas.ac.cn

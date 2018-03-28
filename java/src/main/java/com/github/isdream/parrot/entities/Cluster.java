@@ -1,4 +1,4 @@
-package org.lioncruise.clustermocker.entities;
+package com.github.isdream.parrot.entities;
 
 import java.util.*;
 

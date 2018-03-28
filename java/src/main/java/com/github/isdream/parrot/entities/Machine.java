@@ -1,4 +1,4 @@
-package org.lioncruise.clustermocker.entities;
+package com.github.isdream.parrot.entities;
 
 /**
  * @Author Shijun Qin qinshijun2016@otcaix.iscas.ac.cn
